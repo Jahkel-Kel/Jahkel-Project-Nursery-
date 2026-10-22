@@ -7,7 +7,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -16,7 +16,7 @@
     <heartRate unit="bpm">146</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -25,7 +25,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -34,7 +34,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -43,7 +43,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -52,7 +52,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -61,7 +61,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">37</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -70,7 +70,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">52</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -79,7 +79,7 @@
     <heartRate unit="bpm">136</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -88,7 +88,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -97,7 +97,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -106,7 +106,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -115,7 +115,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -124,7 +124,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -133,7 +133,7 @@
     <heartRate unit="bpm">140</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -142,7 +142,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -151,7 +151,7 @@
     <heartRate unit="bpm">140</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -160,7 +160,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -169,7 +169,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -178,7 +178,7 @@
     <heartRate unit="bpm">153</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -187,7 +187,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -196,7 +196,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -205,7 +205,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -214,7 +214,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -223,7 +223,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -232,7 +232,7 @@
     <heartRate unit="bpm">147</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -241,7 +241,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">37</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -250,7 +250,7 @@
     <heartRate unit="bpm">153</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -259,7 +259,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -268,7 +268,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -277,7 +277,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">37</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -286,7 +286,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -295,7 +295,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -304,7 +304,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -313,7 +313,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -322,7 +322,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -331,7 +331,7 @@
     <heartRate unit="bpm">135</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -340,7 +340,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -349,7 +349,7 @@
     <heartRate unit="bpm">131</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -358,7 +358,7 @@
     <heartRate unit="bpm">148</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -367,7 +367,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -376,7 +376,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -385,7 +385,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -394,7 +394,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -403,7 +403,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -412,7 +412,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -421,7 +421,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -430,7 +430,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -439,7 +439,7 @@
     <heartRate unit="bpm">134</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -448,7 +448,7 @@
     <heartRate unit="bpm">147</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -457,7 +457,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -466,7 +466,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -475,7 +475,7 @@
     <heartRate unit="bpm">135</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -484,7 +484,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -493,7 +493,7 @@
     <heartRate unit="bpm">129</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -502,7 +502,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -511,7 +511,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -520,7 +520,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -529,7 +529,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -538,7 +538,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">99.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -547,7 +547,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -556,7 +556,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -565,7 +565,7 @@
     <heartRate unit="bpm">134</heartRate>
     <breathingRate unit="breaths/min">36</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -574,7 +574,7 @@
     <heartRate unit="bpm">152</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">99.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -583,7 +583,7 @@
     <heartRate unit="bpm">135</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -592,7 +592,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -601,7 +601,7 @@
     <heartRate unit="bpm">140</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -610,7 +610,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">49</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -619,7 +619,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -628,7 +628,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -637,7 +637,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -646,7 +646,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">52</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -655,7 +655,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -664,7 +664,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -673,7 +673,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -682,7 +682,7 @@
     <heartRate unit="bpm">153</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -691,7 +691,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -700,7 +700,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -709,7 +709,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -718,7 +718,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">51</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -727,7 +727,7 @@
     <heartRate unit="bpm">131</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -736,7 +736,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -745,7 +745,7 @@
     <heartRate unit="bpm">130</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -754,7 +754,7 @@
     <heartRate unit="bpm">148</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -763,7 +763,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -772,7 +772,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -781,7 +781,7 @@
     <heartRate unit="bpm">131</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -790,7 +790,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -799,7 +799,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -808,7 +808,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">49</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -817,7 +817,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -826,7 +826,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -835,7 +835,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -844,7 +844,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -853,7 +853,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -862,7 +862,7 @@
     <heartRate unit="bpm">147</heartRate>
     <breathingRate unit="breaths/min">52</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -871,7 +871,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -880,7 +880,7 @@
     <heartRate unit="bpm">147</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -889,7 +889,7 @@
     <heartRate unit="bpm">140</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -898,7 +898,7 @@
     <heartRate unit="bpm">148</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -907,7 +907,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -916,7 +916,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -925,7 +925,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -934,7 +934,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -943,7 +943,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -952,7 +952,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -961,7 +961,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">36</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -970,7 +970,7 @@
     <heartRate unit="bpm">154</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -979,7 +979,7 @@
     <heartRate unit="bpm">136</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -988,7 +988,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -997,7 +997,7 @@
     <heartRate unit="bpm">135</heartRate>
     <breathingRate unit="breaths/min">37</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1006,7 +1006,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1015,7 +1015,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1024,7 +1024,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1033,7 +1033,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1042,7 +1042,7 @@
     <heartRate unit="bpm">155</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1051,7 +1051,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1060,7 +1060,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1069,7 +1069,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1078,7 +1078,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">51</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1087,7 +1087,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1096,7 +1096,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1105,7 +1105,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1114,7 +1114,7 @@
     <heartRate unit="bpm">155</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1123,7 +1123,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1132,7 +1132,7 @@
     <heartRate unit="bpm">147</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1141,7 +1141,7 @@
     <heartRate unit="bpm">135</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1150,7 +1150,7 @@
     <heartRate unit="bpm">155</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1159,7 +1159,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1168,7 +1168,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1177,7 +1177,7 @@
     <heartRate unit="bpm">129</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1186,7 +1186,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1195,7 +1195,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1204,7 +1204,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1213,7 +1213,7 @@
     <heartRate unit="bpm">136</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1222,7 +1222,7 @@
     <heartRate unit="bpm">155</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1231,7 +1231,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1240,7 +1240,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1249,7 +1249,7 @@
     <heartRate unit="bpm">130</heartRate>
     <breathingRate unit="breaths/min">37</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1258,7 +1258,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1267,7 +1267,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1276,7 +1276,7 @@
     <heartRate unit="bpm">146</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1285,7 +1285,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">54</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1294,7 +1294,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1303,7 +1303,7 @@
     <heartRate unit="bpm">140</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1312,7 +1312,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1321,7 +1321,7 @@
     <heartRate unit="bpm">165</heartRate>
     <breathingRate unit="breaths/min">60</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1330,7 +1330,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">49</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1339,7 +1339,7 @@
     <heartRate unit="bpm">137</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1348,7 +1348,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1357,7 +1357,7 @@
     <heartRate unit="bpm">176</heartRate>
     <breathingRate unit="breaths/min">68</breathingRate>
     <temperature unit="F">99.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1366,7 +1366,7 @@
     <heartRate unit="bpm">155</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1375,7 +1375,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1384,7 +1384,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1393,7 +1393,7 @@
     <heartRate unit="bpm">192</heartRate>
     <breathingRate unit="breaths/min">73</breathingRate>
     <temperature unit="F">99.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1402,7 +1402,7 @@
     <heartRate unit="bpm">155</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1411,7 +1411,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">41</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1420,7 +1420,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1429,7 +1429,7 @@
     <heartRate unit="bpm">180</heartRate>
     <breathingRate unit="breaths/min">68</breathingRate>
     <temperature unit="F">99.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1438,7 +1438,7 @@
     <heartRate unit="bpm">146</heartRate>
     <breathingRate unit="breaths/min">52</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1447,7 +1447,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1456,7 +1456,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">49</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1465,7 +1465,7 @@
     <heartRate unit="bpm">174</heartRate>
     <breathingRate unit="breaths/min">63</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1474,7 +1474,7 @@
     <heartRate unit="bpm">154</heartRate>
     <breathingRate unit="breaths/min">51</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1483,7 +1483,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1492,7 +1492,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1501,7 +1501,7 @@
     <heartRate unit="bpm">162</heartRate>
     <breathingRate unit="breaths/min">56</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1510,7 +1510,7 @@
     <heartRate unit="bpm">146</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1519,7 +1519,7 @@
     <heartRate unit="bpm">132</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1528,7 +1528,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1537,7 +1537,7 @@
     <heartRate unit="bpm">157</heartRate>
     <breathingRate unit="breaths/min">54</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1546,7 +1546,7 @@
     <heartRate unit="bpm">146</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1555,7 +1555,7 @@
     <heartRate unit="bpm">134</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1564,7 +1564,7 @@
     <heartRate unit="bpm">151</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.8</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1573,7 +1573,7 @@
     <heartRate unit="bpm">146</heartRate>
     <breathingRate unit="breaths/min">44</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1582,7 +1582,7 @@
     <heartRate unit="bpm">147</heartRate>
     <breathingRate unit="breaths/min">51</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1591,7 +1591,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1600,7 +1600,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">48</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1609,7 +1609,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1618,7 +1618,7 @@
     <heartRate unit="bpm">145</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1627,7 +1627,7 @@
     <heartRate unit="bpm">139</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1636,7 +1636,7 @@
     <heartRate unit="bpm">138</heartRate>
     <breathingRate unit="breaths/min">49</breathingRate>
     <temperature unit="F">98.7</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1645,7 +1645,7 @@
     <heartRate unit="bpm">130</heartRate>
     <breathingRate unit="breaths/min">38</breathingRate>
     <temperature unit="F">98.1</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1654,7 +1654,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1663,7 +1663,7 @@
     <heartRate unit="bpm">144</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1672,7 +1672,7 @@
     <heartRate unit="bpm">141</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1681,7 +1681,7 @@
     <heartRate unit="bpm">130</heartRate>
     <breathingRate unit="breaths/min">39</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1690,7 +1690,7 @@
     <heartRate unit="bpm">143</heartRate>
     <breathingRate unit="breaths/min">47</breathingRate>
     <temperature unit="F">98.6</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1699,7 +1699,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">42</breathingRate>
     <temperature unit="F">98.2</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1708,7 +1708,7 @@
     <heartRate unit="bpm">148</heartRate>
     <breathingRate unit="breaths/min">46</breathingRate>
     <temperature unit="F">98.5</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1717,7 +1717,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">40</breathingRate>
     <temperature unit="F">98.0</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1726,7 +1726,7 @@
     <heartRate unit="bpm">149</heartRate>
     <breathingRate unit="breaths/min">49</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1735,7 +1735,7 @@
     <heartRate unit="bpm">133</heartRate>
     <breathingRate unit="breaths/min">43</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1744,7 +1744,7 @@
     <heartRate unit="bpm">150</heartRate>
     <breathingRate unit="breaths/min">50</breathingRate>
     <temperature unit="F">98.9</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1753,7 +1753,7 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">37</breathingRate>
     <temperature unit="F">98.3</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
   <reading>
     <date>2026-03-11</date>
@@ -1762,6 +1762,6 @@
     <heartRate unit="bpm">142</heartRate>
     <breathingRate unit="breaths/min">45</breathingRate>
     <temperature unit="F">98.4</temperature>
-    <medicalCondition condition=""></medicalCondition>
+    <medicalCondition></medicalCondition>
   </reading>
 </Data>
