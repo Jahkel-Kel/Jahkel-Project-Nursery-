@@ -1,4 +1,4 @@
-# Integrating IoT Sensor Data for Nursery
+# Integrating IoT Sensor Data for Nursery Project
 
 ## What the Project Is
 
