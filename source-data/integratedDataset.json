@@ -1,0 +1,892 @@
+{
+  "integratedNurseryDataset": {
+    "targetDate": "2026-03-11",
+    "timeWindow": "17:00 to 18:00",
+    "records": [
+      {
+        "timestamp": "17:00",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "132",
+          "breathingRate": "42",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null 
+        }
+      },
+      {
+        "timestamp": "17:00",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "146",
+          "breathingRate": "43",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null 
+        }
+      },
+      {
+        "timestamp": "17:00",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "141",
+          "breathingRate": "38",
+          "temperature": "98.1",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:00",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "150",
+          "breathingRate": "45",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.6,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:05",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "138",
+          "breathingRate": "46",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:05",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "143",
+          "breathingRate": "46",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:05",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "137",
+          "breathingRate": "37",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:05",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "143",
+          "breathingRate": "52",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.6,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:10",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "136",
+          "breathingRate": "42",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:10",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "138",
+          "breathingRate": "46",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:10",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "143",
+          "breathingRate": "41",
+          "temperature": "98.0",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:10",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "149",
+          "breathingRate": "46",
+          "temperature": "98.9",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.6,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:15",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "142",
+          "breathingRate": "46",
+          "temperature": "98.3",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:15",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "141",
+          "breathingRate": "44",
+          "temperature": "98.9",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:15",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "140",
+          "breathingRate": "38",
+          "temperature": "98.3",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:15",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "151",
+          "breathingRate": "46",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.6,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:20",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "140",
+          "breathingRate": "38",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:20",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "137",
+          "breathingRate": "48",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:20",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "133",
+          "breathingRate": "39",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:20",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "153",
+          "breathingRate": "46",
+          "temperature": "98.7",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.6,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:25",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "138",
+          "breathingRate": "43",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:25",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "143",
+          "breathingRate": "50",
+          "temperature": "98.7",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.3,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:25",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "133",
+          "breathingRate": "38",
+          "temperature": "98.0",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:25",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "144",
+          "breathingRate": "50",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.6,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:30",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "142",
+          "breathingRate": "46",
+          "temperature": "98.7",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:30",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "147",
+          "breathingRate": "44",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:30",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "142",
+          "breathingRate": "37",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:30",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "153",
+          "breathingRate": "44",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.5,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:35",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "144",
+          "breathingRate": "45",
+          "temperature": "98.3",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:35",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "138",
+          "breathingRate": "50",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:35",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "132",
+          "breathingRate": "37",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:35",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "144",
+          "breathingRate": "50",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.5,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:40",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "133",
+          "breathingRate": "38",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:40",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "145",
+          "breathingRate": "42",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:40",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "132",
+          "breathingRate": "43",
+          "temperature": "98.3",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:40",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "145",
+          "breathingRate": "50",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.5,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:45",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "135",
+          "breathingRate": "44",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:45",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "139",
+          "breathingRate": "45",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:45",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "131",
+          "breathingRate": "40",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:45",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "148",
+          "breathingRate": "46",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.5,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:50",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "132",
+          "breathingRate": "43",
+          "temperature": "98.1",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:50",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "144",
+          "breathingRate": "45",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:50",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "137",
+          "breathingRate": "41",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:50",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "150",
+          "breathingRate": "44",
+          "temperature": "98.8",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.5,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:55",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "132",
+          "breathingRate": "43",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.3,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:55",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "151",
+          "breathingRate": "48",
+          "temperature": "98.4",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:55",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "139",
+          "breathingRate": "43",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.0,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "17:55",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "142",
+          "breathingRate": "50",
+          "temperature": "98.5",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 71.5,
+          "doorStatus": "open",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "18:00",
+        "patientId": "P1001",
+        "patientVitals": {
+          "heartRate": "134",
+          "breathingRate": "46",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "305",
+          "roomTempF": 71.7,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "18:00",
+        "patientId": "P1002",
+        "patientVitals": {
+          "heartRate": "147",
+          "breathingRate": "48",
+          "temperature": "98.9",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "334",
+          "roomTempF": 72.4,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "18:00",
+        "patientId": "P1003",
+        "patientVitals": {
+          "heartRate": "133",
+          "breathingRate": "42",
+          "temperature": "98.2",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "337",
+          "roomTempF": 71.1,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      },
+      {
+        "timestamp": "18:00",
+        "patientId": "P1004",
+        "patientVitals": {
+          "heartRate": "144",
+          "breathingRate": "50",
+          "temperature": "98.6",
+          "medicalCondition": null
+        },
+        "roomConditions": {
+          "roomNumber": "345",
+          "roomTempF": 72.1,
+          "doorStatus": "closed",
+          "roomHumidity": null,
+          "doorAccess": null
+        }
+      }
+    ]
+  }
+}
